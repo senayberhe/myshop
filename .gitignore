@@ -1,1 +1,4 @@
 myshop/settings.py
+media
+db.sqlite3
+Pipfile.lock
