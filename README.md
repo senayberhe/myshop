@@ -1,1 +1,3 @@
 # myshop
+In this chapter, you created a basic shop application. You made a product catalog and built a shopping cart using sessions. You implemented a custom context processor to make the cart available to your templates and created a form for placing orders. You also learned how to launch asynchronous tasks with Celery.
+In the next chapter, you will discover how to integrate a payment gateway into your shop, add custom actions to the administration site, export data in CSV format, and generate PDF files dynamically.
