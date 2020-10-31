@@ -10,6 +10,8 @@ django = "*"
 pillow = "*"
 celery = "==4.4.2"
 flower = "==0.9.3"
+braintree = "==3.59.0"
+weasyprint = "*"
 
 [requires]
 python_version = "3.8"
